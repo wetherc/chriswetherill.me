@@ -62,8 +62,8 @@
 				<div class="entry">
 					<p>This database uses tables mirrored from the <a href="http://elexicon.wustl.edu" target="__blank">English Lexicon Project</a> and the <a href="http://w3.usf.edu/FreeAssociation/" target="__blank">University of South Florida Homograph Norms</a>. The ELP is maintained by the lovely folks at Washington University in St. Louis and made possible by the hard work of researchers at Morehead State, SUNY Albany, University of Kansas, Univeristy of South Florida, Washington University in St. Louis, and Wayne State University. The USF Free Association Norms by Douglas L. Nelson and Cathy L. McEvoy out of the University of South Florida and by Thomas A. Schreiber at the University of Kansas. If language research is something that you're intersted in, I'd strongly recommend that you check out their sites and some of the great work they're doing.</p>
 					<p>Word lists generated from this database are available for non-commercial research purposes only and may not be used in the development of speech technology.</p>
-					<p class="pubs">Balota, D.A., Yap, M.J., Cortese, M.J., Hutchison, K.A., Kessler, B., Loftis, B., Neely, J.H., Nelson, D.L., Simpson, G.B., & Treiman, R. (2007). The English Lexicon Project. <em>Behavior Research Methods, 39</em>, 445-459.</p>
-					<p class="pubs">Nelson, D., McEvoy, C., & Schreiber, T. (2004). The University of South Florida free association, rhyme, and word fragment norms. <em>Behavior Research Methods, Instruments, & Computers, 36</em>, 402-407.</p>
+					<p>Balota, D.A., Yap, M.J., Cortese, M.J., Hutchison, K.A., Kessler, B., Loftis, B., Neely, J.H., Nelson, D.L., Simpson, G.B., & Treiman, R. (2007). The English Lexicon Project. <em>Behavior Research Methods, 39</em>, 445-459.</p>
+					<p>Nelson, D., McEvoy, C., & Schreiber, T. (2004). The University of South Florida free association, rhyme, and word fragment norms. <em>Behavior Research Methods, Instruments, & Computers, 36</em>, 402-407.</p>
 				</div>
 			</div>
 <?php
