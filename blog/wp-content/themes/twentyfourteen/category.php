@@ -46,9 +46,10 @@ require_once('header.php');
 					twentyfourteen_paging_nav();
 	
 				else :
+					print("<div class=\"item\" id=\"light\"><div class=\"entry\">");
 					// If no content, include the "No posts found" template.
 					get_template_part( 'content', 'none' );
-	
+					print("</div></div>");
 				endif;
 			?>
 
