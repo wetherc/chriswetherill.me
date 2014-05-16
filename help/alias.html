@@ -1,0 +1,16 @@
+<div class="information">
+	<br />
+	<h2>SQL Alias</h2>
+	<p>So all of the columns that you include in the SELECT statement are automatically included in the output here. But sometimes they're ugly. Like, what's LgSUBTLWF even mean? Honestly...</p>
+	<p>Point is, you can use an alias (signified with an AS in your SELECT statement) to rename the column as displayed in the output.</p>
+	<h2>SQL Alias Syntax</h2>
+	<code>SELECT column_name AS alias</code><br />
+	<code>FROM table_name</code><br />
+	<code>WHERE column_name operator value</code><br />
+	<h4>Example</h4>
+	<code>SELECT LENGTH, AVG(LgSUBTLWF) AS AVG_FREQ FROM ELP GROUP BY LENGTH</code><br />
+	<P>This query will output the column headers</p>
+	<code>LENGTH, AVG_FREQ</code>
+	<p>instead of</p>
+	<code>LENGTH, AVG(LgSUBTLWF)</code>
+</div>

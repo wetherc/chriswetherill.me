@@ -1,0 +1,16 @@
+<div class="information">
+	<br />
+	<h2>SQL SELECT DISTINCT Statement</h2>
+	<p>In a table, some of the columns may contain duplicate values. This is not a problem, however, sometimes you will want to list only the different (distinct) values in a table. The DISTINCT keyword can be used to return only distinct (different) values.
+	</p>
+	<h2>SQL SELECT DISTINCT Syntax</h2>
+	<code>SELECT DISTINCT column_name(s)</code><br />
+	<code>FROM table_name</code><br />
+	<h4>Example</h4>
+	<p>
+Say you want to find out all of the different parts of speech, combinations, and permutations that are stored within the ELP database. You could run,
+	</p>
+	<code>SELECT DISTINCT POS FROM ELP ORDER BY POS ASC</code>
+	<p>
+		This would return a list something like encl, encl|min, encl|NN, &c.</p>
+</div>
