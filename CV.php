@@ -53,19 +53,19 @@
 			<div class="item" id="blue">
 				<div class="entry">
 					<h2>Publications</h2>
-					<span class="pubs">Wetherill, C., & Jones, A. (in prep). Semantic satiation and distance among lexically ambiguous words.</span><br /><br />
-					<span class="pubs"><a href="research#burke">Wetherill, C., Brown, R., & Short, T. (submitted). Analysis of predictions for NFL game outcomes from Burke's model.</a></span><br /><br />
-					<span class="pubs">Wetherill, C., et al. (Eds.). (2014). <em>Data. Design. A simple introduction to preparing and visualizing information.</em> Chicago, IL: Reynolds Journalism Institute.</span><br /><br />
+					<span class="pubs">Wetherill, C., & Jones, A. (in prep). Semantic satiation and distance among lexically ambiguous words.</span><br />
+					<span class="pubs"><a href="research#burke">Wetherill, C., Brown, R., & Short, T. (submitted). Analysis of predictions for NFL game outcomes from Burke's model.</a></span><br />
+					<span class="pubs">Wetherill, C., et al. (Eds.). (2014). <em>Data. Design. A simple introduction to preparing and visualizing information.</em> Chicago, IL: Reynolds Journalism Institute.</span><br />
 				</div>
 			</div>
 			<div class="item" id="dark">
 				<div class="entry">
 					<h2>Presentations</h2>
 					
-					<span class="pubs"><a href="research#nutrients">Drenovsky, R., Wetherill, C., & Short, T. (submitted) Multi-year patterns in nutrient resorption from a global dataset. Poster submitted for presentation at the Botanical Society of America 2014 conference, Boise, ID.</a></span><br /><br />
-					<span class="pubs"><a href="research#semsat">Wetherill, C., & Jones, A. (2014). Immediate and delayed satiation effects with ambiguous words. Paper submitted for presentation at the Midwestern Psychological Association Annual Meeting, Chicago, IL.</a></span><br /><br />
-					<span class="pubs"><a href="research#semsat">Wetherill, C., & Jones, A. (2013). Semantic satiation, lexical ambiguity, and semantic distance. Poster presented at the 2013 Psychonomic Society Annual Meeting, Toronto, CA.</a></span><br /><br />
-					<span class="pubs"><a href="research#burke">Brown, R., Short, T., & Wetherill, C. (2013). Analysis of predictions for NFL game outcomes from Burke's model. Poster presented at Cleveland chapter of American Statistical Association 2013 Conference, Akron, OH.</a></span><br /><br />
+					<span class="pubs"><a href="research#nutrients">Drenovsky, R., Wetherill, C., & Short, T. (submitted) Multi-year patterns in nutrient resorption from a global dataset. Poster submitted for presentation at the Botanical Society of America 2014 conference, Boise, ID.</a></span><br />
+					<span class="pubs"><a href="research#semsat">Wetherill, C., & Jones, A. (2014). Immediate and delayed satiation effects with ambiguous words. Paper submitted for presentation at the Midwestern Psychological Association Annual Meeting, Chicago, IL.</a></span><br />
+					<span class="pubs"><a href="research#semsat">Wetherill, C., & Jones, A. (2013). Semantic satiation, lexical ambiguity, and semantic distance. Poster presented at the 2013 Psychonomic Society Annual Meeting, Toronto, CA.</a></span><br />
+					<span class="pubs"><a href="research#burke">Brown, R., Short, T., & Wetherill, C. (2013). Analysis of predictions for NFL game outcomes from Burke's model. Poster presented at Cleveland chapter of American Statistical Association 2013 Conference, Akron, OH.</a></span><br />
 				</div>
 
 <?php

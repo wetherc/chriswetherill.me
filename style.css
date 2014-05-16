@@ -201,8 +201,9 @@ span.right {
 }
 
 .pubs {
-    padding-left: 15px;
-    text-indent: -30px 
+    margin-left: 30px;
+	text-indent: -15px;
+	display: block;
 }
 
 #dark .pubs a, #dark .pubs a:active,
