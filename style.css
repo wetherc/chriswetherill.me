@@ -6,19 +6,19 @@ html {
 }
 
 body {
-	width: 100%;
-	max-width: 100%;
-	min-width: 900px;
-	height: 100%;
-	max-height: 100%;
-	min-height: 750px;
-	margin: 0;
-	padding: 0;
-	top: 0;
-	left: 0;
-	text-align: justify;
-	position: absolute;
-	background-color: #2D3235;
+    width: 100%;
+    max-width: 100%;
+    min-width: 900px;
+    height: 100%;
+    max-height: 100%;
+    min-height: 750px;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    text-align: justify;
+    position: absolute;
+    background-color: #2D3235;
 }
 
 h2 {
@@ -34,310 +34,312 @@ h3 {
 }
 
 img {
-	border: none;
+    border: none;
 }
 
 /*
  * Navigation
  */
 div.navbar {
-	width: 100%;
-	min-width: 900px;
-	height: 50px;
-	min-height: 50px;
-	top: 0;
-	position: fixed;
-	overflow: hidden;
-	background-color: #f8f8f8;
-	box-shadow: 0px 0px 2px 2px #999;
-	z-index: 2;
+    width: 100%;
+    min-width: 900px;
+    height: 50px;
+    min-height: 50px;
+    top: 0;
+    position: fixed;
+    overflow: hidden;
+    background-color: #f8f8f8;
+    box-shadow: 0px 0px 2px 2px #999;
+    z-index: 2;
 }
 
-    div.navbar ul {
-        padding-left: 50px;
-    }
+div.navbar ul {
+    padding-left: 50px;
+}
 
-    div.navbar ul li {
-        list-style: none;
-        display: inline;
-        font-size: 1.5em;
-        font-weight: 300;
-        top: -10px;
-        padding-right: 15px;
-        position: relative;
-    }
-    
-    div.navbar ul li a, div.navbar ul li a:visited {
-        color: inherit;
-        text-decoration: none;
-        font-weight: 300;
-    }
-    
-    div.navbar ul li a:hover,a:active {
-        color: #ddb500;
-        text-decoration: none;
-        font-weight: 300;
-    }
+div.navbar ul li {
+    list-style: none;
+    display: inline;
+    font-size: 1.5em;
+    font-weight: 300;
+    top: -10px;
+    padding-right: 15px;
+    position: relative;
+}
+
+div.navbar ul li a,
+div.navbar ul li a:visited {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+div.navbar ul li a:hover,
+div.navbar ul li a:active {
+    color: #ddb500;
+    text-decoration: none;
+    font-weight: 300;
+}
 
 /*
  * Content
  */
 
 div.content {
-	width: 100%;
-	min-width: 900px;
-	height: auto;
-	min-height: 750px;
-	top: 50px;
-	position: absolute;
-	z-index: 1;
+    width: 100%;
+    min-width: 900px;
+    height: auto;
+    min-height: 750px;
+    top: 50px;
+    position: absolute;
+    z-index: 1;
 }
-	
-    div.content .item {
-        width: 100%;
-        height: auto;
-        min-height: 300px;
-        position: relative;
-        margin: auto;
-    }
-        
-        /*
-         * Item-wise coloration
-        */
-        
-        #dark {
-            background: #4F5962;
-            color: #eee;
-        }
-            
-            #dark a, #dark a:visited, #dark ul li a, #dark ul li a:visited,
-            #dark h2 a, #dark h2 a:visited {
-                text-decoration: none;
-                color: #bbb;
-                font-weight: 400;
-            }
-            
-            #dark a:hover, #dark a:active, #dark ul li a:hover,
-            #dark ul li a:active, #dark h2 a:hover, #dark h2 a:active {
-                text-decoration: none;
-                color: #eee;
-            }
-            
-        #blue {
-            color: #2F353B;
-            background: #8bc5eb;
-        }
-        
-        #light {
-            color: #2F353B;
-            background: #eee;
-        }
-            
-            #blue a, #blue a:visited,
-            #blue h2 a:visited, #blue h2 a {
-                text-decoration: none;
-                color: #8E5400;
-                font-weight: 400;
-            }
-			
-			#light a, #light a:visited,
-            #light h2 a:visited, #light h2 a {
-                text-decoration: none;
-                color: #24890d;
-                font-weight: 400;
-            }
-            
-            #blue a:hover, #blue a:active,
-            #blue h2 a:hover, #blue h2 a:active {
-                text-decoration: none;
-                color: #C18733;
-            }
-			
-			#light a:hover, #light a:active,
-            #light h2 a:hover, #light h2 a:active {
-                text-decoration: none;
-                color: #41a62a;
-            }
-        
-        div.content .item .entry {
-            width: 65%;
-            max-width: 1000px;
-            height: 85%;
-            min-height: 200px;
-            vertical-align: middle;
-            margin-left: 5%;
-            padding-top: 25px;
-            padding: 20px;
-            position: relative;
-        }
-            
-            /*
-             * CV styling
-             */
-            
-            span.left {
-                margin-left: 15px;
-                width: 50%;
-                display: block;
-                text-align: left;
-            }
-			
-			#dark .left a, #dark .left a:active,
-			#dark .left a:visited {
-				text-decoration: none;
-				color: #eee;
-				font-weight: 300;
-			}
-			
-			#dark .left a:hover {
-				text-decoration: none;
-				color: #bbb;
-				font-weight: 300;
-			}
-            
-            span.right {
-                float: right;
-                width: 30%;
-                text-align: right;
-            }
-            
-            .pubs {
-                padding-left: 30px;
-                text-indent: -30px 
-            }
-            
-            #dark .pubs a, #dark .pubs a:active,
-            #dark .pubs a:visited {
-                text-decoration: none;
-                color: #eee;
-                font-weight: 300;
-            }
-            
-            #dark .pubs a:hover {
-                text-decoration: none;
-                color: #bbb;
-            }
-            
-            #blue .pubs a, #blue .pubs a:active,
-            #blue .pubs a:visited {
-                text-decoration: none;
-                color: #2F353B;
-                font-weight: 300;
-            }
-            
-            #blue .pubs a:hover {
-                text-decoration: none;
-                color: #4F5962;
-            }
-            
-            ul.resume {
-                width: 700px;
-            }
-            
-            span.h4 {
-                font-weight: 400;
-                font-size: 1.15em;
-                margin-left: 15px;
-                float: left;
-                width: 50%;
-                text-align: left;
-            }
-            
-            /*
-             * Index, linkout table styling
-             */
-            
-            table.recs {
-                width: 85%;
-				min-width: 800px;
-            }
-            
-            table.recs tr td {
-                width: 50%;
-                vertical-align: top;
-                padding: 0px 20px 0px 20px;
-            }
-            
-            /*
-             * ELP query result styling
-             */
-            
-            table.query {
-                width: auto;
-                max-width: 100%;
-            }
-            
-            table.query, table.query th, table.query tr td {
-                border-collapse: collapse;
-                border: 1px solid #697075;
-            }
-            table.query th {
-                background-color: #697075;
-                text-align: left;
-                font-weight: 400;
-                padding: 0px 10px 0px 10px;
-            }
-            
-            table.query tr td {
-               padding: 0px 10px 0px 10px;
-            }
-            
-            /*
-             * ELP help page styling
-             */
-            
-            table.help tr td {
-                vertical-align: top;
-            }
-            
-            table.help tr td ul {
-                margin: 0px 0px 0px -40px;
-            }
-            
-            table.help tr td ul li {
-                display: block;
-            }
-            
-            table.help tr td ul li:hover {
-                color: #ddb500;
-                cursor: pointer;
-            }
+    
+div.content .item {
+    width: 100%;
+    height: auto;
+    min-height: 300px;
+    position: relative;
+    margin: auto;
+}
+    
+/*
+ * Item-wise coloration
+*/
+
+#dark {
+    background: #4F5962;
+    color: #eee;
+}
+    
+#dark a, #dark a:visited, #dark ul li a, #dark ul li a:visited,
+#dark h2 a, #dark h2 a:visited {
+    text-decoration: none;
+    color: #bbb;
+    font-weight: 400;
+}
+
+#dark a:hover, #dark a:active, #dark ul li a:hover,
+#dark ul li a:active, #dark h2 a:hover, #dark h2 a:active {
+    text-decoration: none;
+    color: #eee;
+}
+    
+#blue {
+    color: #2F353B;
+    background: #8bc5eb;
+}
+
+#blue a, #blue a:visited,
+#blue h2 a:visited, #blue h2 a {
+    text-decoration: none;
+    color: #8E5400;
+    font-weight: 400;
+}
+
+#blue a:hover, #blue a:active,
+#blue h2 a:hover, #blue h2 a:active {
+    text-decoration: none;
+    color: #C18733;
+}
+
+#light {
+    color: #2F353B;
+    background: #eee;
+}
+
+#light a, #light a:visited,
+#light h2 a:visited, #light h2 a {
+    text-decoration: none;
+    color: #24890d;
+    font-weight: 400;
+}
+
+#light a:hover, #light a:active,
+#light h2 a:hover, #light h2 a:active {
+    text-decoration: none;
+    color: #41a62a;
+}
+
+div.content .item .entry {
+    width: 65%;
+    max-width: 1000px;
+    height: 85%;
+    min-height: 200px;
+    vertical-align: middle;
+    margin-left: 5%;
+    padding-top: 25px;
+    padding: 20px;
+    position: relative;
+}
+    
+/*
+ * CV styling
+ */
+
+span.left {
+    margin-left: 15px;
+    width: 50%;
+    display: block;
+    text-align: left;
+}
+
+#dark .left a, #dark .left a:active,
+#dark .left a:visited {
+    text-decoration: none;
+    color: #eee;
+    font-weight: 300;
+}
+
+#dark .left a:hover {
+    text-decoration: none;
+    color: #bbb;
+    font-weight: 300;
+}
+
+span.right {
+    float: right;
+    width: 30%;
+    text-align: right;
+}
+
+.pubs {
+    padding-left: 30px;
+    text-indent: -30px 
+}
+
+#dark .pubs a, #dark .pubs a:active,
+#dark .pubs a:visited {
+    text-decoration: none;
+    color: #eee;
+    font-weight: 300;
+}
+
+#dark .pubs a:hover {
+    text-decoration: none;
+    color: #bbb;
+}
+
+#blue .pubs a, #blue .pubs a:active,
+#blue .pubs a:visited {
+    text-decoration: none;
+    color: #2F353B;
+    font-weight: 300;
+}
+
+#blue .pubs a:hover {
+    text-decoration: none;
+    color: #4F5962;
+}
+
+ul.resume {
+    width: 700px;
+}
+
+span.h4 {
+    font-weight: 400;
+    font-size: 1.15em;
+    margin-left: 15px;
+    float: left;
+    width: 50%;
+    text-align: left;
+}
+
+/*
+ * Index, linkout table styling
+ */
+
+table.recs {
+    width: 85%;
+    min-width: 800px;
+}
+
+table.recs tr td {
+    width: 50%;
+    vertical-align: top;
+    padding: 0px 20px 0px 20px;
+}
+
+/*
+ * ELP query result styling
+ */
+
+table.query {
+    width: auto;
+    max-width: 100%;
+}
+
+table.query, table.query th, table.query tr td {
+    border-collapse: collapse;
+    border: 1px solid #697075;
+}
+table.query th {
+    background-color: #697075;
+    text-align: left;
+    font-weight: 400;
+    padding: 0px 10px 0px 10px;
+}
+
+table.query tr td {
+   padding: 0px 10px 0px 10px;
+}
+
+/*
+ * ELP help page styling
+ */
+
+table.help tr td {
+    vertical-align: top;
+}
+
+table.help tr td ul {
+    margin: 0px 0px 0px -40px;
+}
+
+table.help tr td ul li {
+    display: block;
+}
+
+table.help tr td ul li:hover {
+    color: #ddb500;
+    cursor: pointer;
+}
 
 /*
  * Footer styling
  */
 
 div.footer {
-	width: 100%;
-	height: auto;
-	min-height: 150px;
-	background: #2D3235;
-	color: #eee;
-	position: relative;
-	z-index: 5;
+    width: 100%;
+    height: auto;
+    min-height: 150px;
+    background: #2D3235;
+    color: #eee;
+    position: relative;
+    z-index: 5;
 }
 
-    /*
-     * Message of the day, Google+, copyright
-     */
-    
-    div.footer .motd {
-        width: 50%;
-        margin: 0px auto 0px auto;
-        text-align: center;
-        vertical-align: middle;
-        font-size: 1.5em;
-        position: relative;
-        top: 25px;
-    }
-    
-    div.footer .copyright {
-        vertical-align: baseline;
-        display: block;
-        text-align: right;
-        font-size: 0.75em;
-        padding: 0px 50px 0px 50px;
-        position: absolute;
-        right: 50px;
-        bottom: 15px;
-    }
+/*
+ * Message of the day, Google+, copyright
+ */
+
+div.footer .motd {
+    width: 50%;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.5em;
+    position: relative;
+    top: 25px;
+}
+
+div.footer .copyright {
+    vertical-align: baseline;
+    display: block;
+    text-align: right;
+    font-size: 0.75em;
+    padding: 0px 50px 0px 50px;
+    position: absolute;
+    right: 50px;
+    bottom: 15px;
+}
