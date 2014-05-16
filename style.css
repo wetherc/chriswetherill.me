@@ -24,13 +24,11 @@ body {
 h2 {
     font-weight: 400;
     font-size: 2em;
-    margin-left: 15px;
 }
 
 h3 {
     font-weight: 400;
     font-size: 1.5em;
-    margin-left: 15px;
 }
 
 img {
@@ -133,14 +131,14 @@ div.content .item {
 #blue a, #blue a:visited,
 #blue h2 a:visited, #blue h2 a {
     text-decoration: none;
-    color: #8E5400;
+    color: #333;
     font-weight: 400;
 }
 
 #blue a:hover, #blue a:active,
 #blue h2 a:hover, #blue h2 a:active {
     text-decoration: none;
-    color: #C18733;
+    color: #666;
 }
 
 #light {
@@ -168,7 +166,6 @@ div.content .item .entry {
     min-height: 200px;
     vertical-align: middle;
     margin-left: 5%;
-    padding-top: 25px;
     padding: 20px;
     position: relative;
 }
@@ -204,7 +201,7 @@ span.right {
 }
 
 .pubs {
-    padding-left: 30px;
+    padding-left: 15px;
     text-indent: -30px 
 }
 
