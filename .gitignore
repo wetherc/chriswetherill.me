@@ -1,3 +1,16 @@
 ## my secret stuffs:
 beamMeUp.php
-blog/*
+blog/*.*
+blog/wp-admin/*
+blog/wp-assets/*
+blog/wp-includes/*
+blog/wp-content/plugins/*
+blog/wp-content/themes/*.*
+blog/wp-content/themes/twentyfourteen/css/*
+blog/wp-content/themes/twentyfourteen/genericons/*
+blog/wp-content/themes/twentyfourteen/images/*
+blog/wp-content/themes/twentyfourteen/inc/*
+blog/wp-content/themes/twentyfourteen/js/*
+blog/wp-content/themes/twentyfourteen/languages/*
+blog/wp-content/themes/twentyfourteen/page-templates/*
+blog/wp-content/themes/twentyfourteen/taxonomy.php
