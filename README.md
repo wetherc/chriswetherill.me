@@ -6,7 +6,7 @@ Hey! So this is my personal website. Or, most of it at least. Enjoy, I guess?
 Waiver of Copyright
 ===================
 
-1. Statement of Purpose
+1. **Statement of Purpose**
 
     The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work").
 
@@ -17,6 +17,7 @@ Waiver of Copyright
 1. **Definitions.**
 
     a. **"Affirmer"** is here Christopher Wetherill.
+    
     b. **"Work"** means chriswetherill.me and all materials contained in unprotected subdirectories and folders of this Web site where other copyright is not explicitly specified and where Affirmer is the creator and/or copyright owner. Importantly, Affirmer is not the owner of all material hosted on chriswetherill.me and explicit notice of ownership and copyright status may not always be given. For this reason, when in doubt, please contact Affirmer beforehand to confirm whether the material is listed in the public domain or governed by another license.
 
 1. **Copyright and Related Rights.** A Work made available under CC0 may be protected by copyright and related or neighboring rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not limited to, the following:
