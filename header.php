@@ -28,12 +28,6 @@
 					<a href="/">Home</a>                            
 				</li>
 				<li>
-					<a href="bibtex">Bibtex</a>
-				</li>
-				<li>
-					<a href="ELP">ELP</a>                            
-				</li>
-				<li>
 					<a href="research">Projects</a>
 				</li>
 				<li>

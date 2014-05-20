@@ -29,12 +29,6 @@
 					<a href="http://chriswetherill.me">Home</a>                            
 				</li>
 				<li>
-					<a href="http://chriswetherill.me/bibtex">Bibtex</a>
-				</li>
-				<li>
-					<a href="http://chriswetherill.me/ELP">ELP</a>                            
-				</li>
-				<li>
 					<a href="http://chriswetherill.me/research">Projects</a>
 				</li>
 				<li>
