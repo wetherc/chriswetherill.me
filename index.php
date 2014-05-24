@@ -15,12 +15,13 @@
                     <a href="mailto:chris@chriswetherill.me">chris@chriswetherill.me</a></p>
                     
                     <hr />
-                    <a href="https://facebook.com/christopher.wetherill/about" target="_blank"><img src="/assets/facebook.svg" width="57px" height"57px" /></a>
-					<a href="http://google.com/+ChristopherWetherill/about" target="_blank"><img src="/assets/gplus.svg" width="57px" height"57px"/></a>
-					<a href="https://github.com/faulconbridge" target="_blank"><img src="/assets/github.svg" width="57px" height="57px" /></a>
-					<a href="https://www.linkedin.com/profile/view?id=92647263" target="_blank"><img src="/assets/linkedin.svg" width="57px" height="57px" /></a>
-
-				</div>
+					<span class="socialIcons">
+						<a href="https://www.linkedin.com/profile/view?id=92647263" target="_blank"><img src="/assets/linkedin.svg" width="57px" height="57px" style="margin-right:-5px;" /></a>
+						<a href="https://facebook.com/christopher.wetherill/about" target="_blank"><img src="/assets/facebook.svg" width="57px" height"57px" /></a>
+						<a href="https://twitter.com/Faulconbridge" target="_blank"><img src="/assets/twitter.svg" width="40px" height"40px" style="margin-left:5px;margin-right:5px;"/></a>
+						<a href="https://github.com/faulconbridge" target="_blank"><img src="/assets/github.svg" width="50px" height="50px" /></a>
+					</span>
+                </div>
             </div>
             <div class="item" id="dark">
                     <div class="entry">
@@ -34,7 +35,7 @@
                                         <li><a href="http://www.r-project.org/" target="_blank">R</a> and <a href="http://www.rstudio.com" target="_blank">RStudio</a> &mdash; Both obligatory and (hopefully) unnecessary. If you have an interest in applied statistics, R is a great place to start. It's powerful and open source, but it does have a learning curve. There are some great resources (<a href="http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP" target="_blank">A 'get started' video series</a> from Google; <a href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage" target="_blank">Johns Hopkins courses</a> on data analysis via Coursera) online to get you going if you don't know where to start.</li>
                                         <li><a href="http://www.reddit.com/r/statistics/" target="_blank">/r/statistics</a> &mdash; The Statistics subreddit has usually got some good conversations going. Well, at least occasionally. Check out <a href="http://www.reddit.com/r/opendata" target="_blank">/r/opendata</a> and <a href="http://www.reddit.com/r/rstats" target="_blank">/r/rstats</a> as well if you're bored.</li>
                                         <li><a href="http://schoolofdata.org/" target="_blank">School of Data</a> &mdash; A project of the OKFN and a few other foundations, the School of Data has some great tutorials to get your feet wet working with various types of data.</li>
-										<li><a href="http://book.openingscience.org/" target="_blank">Opening Science</a> &mdash; This book provides an overview of the emergence and future of open science and the various schools of thought that comprise the ideal. It's a good resource if you're new to open science/data/access/etc. and want to learn more or become involved.</li>
+                                                                                <li><a href="http://book.openingscience.org/" target="_blank">Opening Science</a> &mdash; This book provides an overview of the emergence and future of open science and the various schools of thought that comprise the ideal. It's a good resource if you're new to open science/data/access/etc. and want to learn more or become involved.</li>
                                     </ul>
                                 </td>
                                 <td>

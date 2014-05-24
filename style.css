@@ -243,6 +243,10 @@ span.h4 {
     text-align: left;
 }
 
+span.socialIcons img {
+	vertical-align: middle;
+}
+
 /*
  * Index, linkout table styling
  */
