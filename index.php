@@ -16,10 +16,10 @@
                     
                     <hr />
 					<span class="socialIcons">
-						<a href="https://www.linkedin.com/profile/view?id=92647263" target="_blank"><img src="/assets/linkedin.svg" width="57px" height="57px" style="margin-right:-5px;" /></a>
-						<a href="https://facebook.com/christopher.wetherill/about" target="_blank"><img src="/assets/facebook.svg" width="57px" height"57px" /></a>
-						<a href="https://twitter.com/Faulconbridge" target="_blank"><img src="/assets/twitter.svg" width="40px" height"40px" style="margin-left:5px;margin-right:5px;"/></a>
-						<a href="https://github.com/faulconbridge" target="_blank"><img src="/assets/github.svg" width="50px" height="50px" /></a>
+						<a href="https://github.com/faulconbridge" target="_blank"><img src="/assets/github2.svg" width="32px" height="32px" /></a>
+						<a href="https://www.linkedin.com/profile/view?id=92647263" target="_blank"><img src="/assets/linkedin2.svg" width="32px" height="32px" /></a>
+						<a href="https://facebook.com/christopher.wetherill/about" target="_blank"><img src="/assets/facebook2.svg" width="30px" height"30px" /></a>
+						<a href="https://twitter.com/Faulconbridge" target="_blank"><img src="/assets/twitter2.svg" width="30px" height"30px" /></a>
 					</span>
                 </div>
             </div>
