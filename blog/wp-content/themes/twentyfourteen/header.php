@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-        <title>Ahoy! | chriswetherill.me</title>
+        <title>Blag | chriswetherill.me</title>
 		<meta charset="utf-8" />
         <meta name="description" content="The personal website for Christopher Wetherill. Contains info on past and ongoing projects, research journals, a CV, yada yada yada" />
 		<meta name="keywords" content="Chris Wetherill, Wetherill, Christopher Wetherill">
@@ -29,7 +29,7 @@
 					<a href="http://chriswetherill.me">Home</a>                            
 				</li>
 				<li>
-					<a href="http://chriswetherill.me/research">Projects</a>
+					<a href="http://chriswetherill.me/research">Research</a>
 				</li>
 				<li>
 					<a href="/blog">Posts</a>

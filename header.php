@@ -28,7 +28,7 @@
 					<a href="/">Home</a>                            
 				</li>
 				<li>
-					<a href="research">Projects</a>
+					<a href="research">Research</a>
 				</li>
 				<li>
 					<a href="blog">Posts</a>
