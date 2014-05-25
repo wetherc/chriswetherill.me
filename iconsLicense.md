@@ -1,6 +1,6 @@
 # License
 
-Please carefully understand the license and download the latest icons at ModernUIIcons.com.
+All social media icons used at [chriswetherill.me](http://chriswetherill.me) were created for the Modern UI Icons project at [ModernUIIcons.com](http://ModernUIIcons.com).
 
 ## Understand Your Rights
 No Attribution and No Derived Works
