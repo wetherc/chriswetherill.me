@@ -45,7 +45,7 @@
 			<div class="item" id="dark">
 				<div class="entry" id="ELP">
 					<h2>English Lexicon Project / USF Free Association Norms</h2>
-					<p>This database uses tables mirrored from the English Lexicon Project and the University of South Florida Homograph Norms. The ELP is maintained by the lovely folks at Washington University in St. Louis and made possible by the hard work of researchers at Morehead State, SUNY Albany, University of Kansas, Univeristy of South Florida, Washington University in St. Louis, and Wayne State University. The USF Free Association Norms by Douglas L. Nelson and Cathy L. McEvoy out of the University of South Florida and by Thomas A. Schreiber at the University of Kansas. If language research is something that you're intersted in, I'd strongly recommend that you check out their sites and some of the great work they're doing.</p>
+					<p>This database uses tables mirrored from the English Lexicon Project and the University of South Florida Homograph Norms. Obviously nothing big, just a handy way to construct word lists using some disparate statistics. The ELP is maintained by the lovely folks at Washington University in St. Louis and made possible by the hard work of researchers at Morehead State, SUNY Albany, University of Kansas, Univeristy of South Florida, Washington University in St. Louis, and Wayne State University. The USF Free Association Norms by Douglas L. Nelson and Cathy L. McEvoy out of the University of South Florida and by Thomas A. Schreiber at the University of Kansas. If language research is something that you're intersted in, I'd strongly recommend that you check out their sites and some of the great work they're doing.</p>
 					<ul>
 						<li>
 							<a href="ELP">Combined ELP/USF databse</a>
