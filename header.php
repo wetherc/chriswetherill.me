@@ -7,7 +7,7 @@
 		<meta name="keywords" content="Chris Wetherill, Wetherill, Christopher Wetherill">
         <meta name="author" content="Chris Wetherill" />
 		<?php require_once('beamMeUp.php'); ?>
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans&subset=latin' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=latin' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="style.css">
     	<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

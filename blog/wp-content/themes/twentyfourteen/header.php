@@ -6,7 +6,7 @@
         <meta name="description" content="The personal website for Christopher Wetherill. Contains info on past and ongoing projects, research journals, a CV, yada yada yada" />
 		<meta name="keywords" content="Chris Wetherill, Wetherill, Christopher Wetherill">
         <meta name="author" content="Chris Wetherill" />
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans&subset=latin' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=latin' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="http://chriswetherill.me/blog/wp-content/themes/twentyfourteen/style.css">
 		
     	<script>
