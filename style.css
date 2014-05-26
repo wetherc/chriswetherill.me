@@ -47,7 +47,7 @@ div.navbar {
     position: fixed;
     overflow: hidden;
     background-color: #f8f8f8;
-    box-shadow: 0px 0px 2px 2px #999;
+    box-shadow: 0 0 2px 2px #999;
     z-index: 2;
 }
 
@@ -194,7 +194,7 @@ span.left {
     font-weight: 300;
 }
 
-span.right {
+.right {
     float: right;
     width: 30%;
     text-align: right;
@@ -230,11 +230,11 @@ span.right {
     color: #4F5962;
 }
 
-ul.resume {
+.resume {
     width: 700px;
 }
 
-span.h4 {
+.h4 {
     font-weight: 400;
     font-size: 1.15em;
     margin-left: 15px;
@@ -243,9 +243,9 @@ span.h4 {
     text-align: left;
 }
 
-span.socialIcons img {
+.socialIcons img {
 	vertical-align: middle;
-	padding: 0px 0px 0px 0px;
+	padding: 0 0 0 0;
 }
 
 /*
@@ -260,7 +260,7 @@ table.recs {
 table.recs tr td {
     width: 50%;
     vertical-align: top;
-    padding: 0px 20px 0px 20px;
+    padding: 0 20px 0 20px;
 }
 
 /*
@@ -280,11 +280,11 @@ table.query th {
     background-color: #697075;
     text-align: left;
     font-weight: 400;
-    padding: 0px 10px 0px 10px;
+    padding: 0 10px 0 10px;
 }
 
 table.query tr td {
-   padding: 0px 10px 0px 10px;
+   padding: 0 10px 0 10px;
 }
 
 /*
@@ -296,7 +296,7 @@ table.help tr td {
 }
 
 table.help tr td ul {
-    margin: 0px 0px 0px -40px;
+    margin: 0 0 0 -40px;
 }
 
 table.help tr td ul li {
@@ -328,7 +328,7 @@ div.footer {
 
 div.footer .motd {
     width: 50%;
-    margin: 0px auto 0px auto;
+    margin: 0 auto 0 auto;
     text-align: center;
     vertical-align: middle;
     font-size: 1.5em;
@@ -337,11 +337,10 @@ div.footer .motd {
 }
 
 div.footer .copyright {
-    vertical-align: baseline;
     display: block;
     text-align: right;
     font-size: 0.75em;
-    padding: 0px 50px 0px 50px;
+    padding: 0 50px 0 50px;
     position: absolute;
     right: 50px;
     bottom: 15px;
