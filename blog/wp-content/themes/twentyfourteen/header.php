@@ -6,10 +6,9 @@
         <meta name="description" content="The personal website for Christopher Wetherill. Contains info on past and ongoing projects, research journals, a CV, yada yada yada" />
 		<meta name="keywords" content="Chris Wetherill, Wetherill, Christopher Wetherill">
         <meta name="author" content="Chris Wetherill" />
-
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans&subset=latin' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="http://chriswetherill.me/blog/wp-content/themes/twentyfourteen/style.css">
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
-
+		
     	<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
