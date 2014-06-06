@@ -4,28 +4,6 @@
 ?>
 
             <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-            <div class="item" id=
-            <?php
-                if($count %2 == 0) {
-                    print("\"light\"");
-                } else {
-                    print("\"dark\"");
-                }
-                
-                $count++;
-            ?>
-            >
-                <div class="entry" id="appliedStats">
-                    <h2>Applied Statistics: An Introduction to Statistical Analysis</h2>
-                    <p>An open-source book to teach sound and informed statistical methodologies to researchers without a strong statistical background with a particular emphasis on the social and biological sciences. Includes many commonly-used analyses, their implementation in R, and numerous examples and exercises. Currently in production.</p>
-                    <ul>
-                        <li>
-                            <a href="http://book.chriswetherill.me" target="_blank">Applied Statistics on GitHub</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            
             <div class="item" id=<?php
                 if($count %2 == 0) {
                     print("\"light\"");
@@ -85,6 +63,27 @@
                         </li>
                         <li>
                             <a href="./assets/Burke_2013.pdf" target="_blank">Poster presented at Cleveland chapter of American Statistical Association 2013 Conference</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+			<div class="item" id=
+            <?php
+                if($count %2 == 0) {
+                    print("\"light\"");
+                } else {
+                    print("\"dark\"");
+                }
+                
+                $count++;
+            ?>
+            >
+                <div class="entry" id="appliedStats">
+                    <h2>Applied Statistics: An Introduction to Statistical Analysis</h2>
+                    <p>An open-source book to teach sound and informed statistical methodologies to researchers without a strong statistical background with a particular emphasis on the social and biological sciences. Includes many commonly-used analyses, their implementation in R, and numerous examples and exercises. Currently in production.</p>
+                    <ul>
+                        <li>
+                            <a href="http://book.chriswetherill.me" target="_blank">Applied Statistics on GitHub</a>
                         </li>
                     </ul>
                 </div>
