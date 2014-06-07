@@ -36,7 +36,6 @@
 					<span class="h4">Resident Assistant</span>
 					<span class="right">August 2012 &mdash; May 2013</span><br />
 					<span class="left"><a href="http://sites.jcu.edu" target="_blank">John Carroll University, Office of Residence Life</a></span>
-					<span class="left"></span>
 					<br /><br />
 					
 					<span class="h4">Operations Intern, Contractor</span>
@@ -47,26 +46,25 @@
 					<span class="h4">Microsoft Student Partner</span>
 					<span class="right">August 2010 &mdash; June 2012</span><br />
 					<span class="left"><a href="https://www.microsoftstudentpartners.com/" target="_blank">Microsoft Corporation</a></span>
-					<span class="left"></span>
 				</div>
 			</div>
 			<div class="item" id="blue">
 				<div class="entry">
 					<h2>Publications</h2>
-					<span class="pubs">Wetherill, C., & Jones, A. (in prep). Semantic satiation and distance among lexically ambiguous words.</span><br />
-					<span class="pubs">Wetherill, C., & Jones, A. (in prep). A meta-analytic review of the effect of semantic satiation: 1978 to present.</span><br />
-					<span class="pubs"><a href="research#burke">Wetherill, C., Brown, R., & Short, T. (submitted). Analysis of predictions for NFL game outcomes from Burke's model.</a></span><br />
-					<span class="pubs">Wetherill, C., et al. (Eds.). (2014). <em>Data. Design. A simple introduction to preparing and visualizing information.</em> Chicago, IL: Reynolds Journalism Institute.</span><br />
+					<span class="pubs">Wetherill, C., & Jones, A. (in prep). Semantic satiation and distance among lexically ambiguous words.</span>
+					<span class="pubs">Wetherill, C., & Jones, A. (in prep). A meta-analytic review of the effect of semantic satiation: 1978 to present.</span>
+					<span class="pubs"><a href="research#burke">Wetherill, C., Brown, R., & Short, T. (submitted). Analysis of predictions for NFL game outcomes from Burke's model.</a></span>
+					<span class="pubs">Wetherill, C., et al. (Eds.). (2014). <em>Data. Design. A simple introduction to preparing and visualizing information.</em> Chicago, IL: Reynolds Journalism Institute.</span>
 				</div>
 			</div>
 			<div class="item" id="dark">
 				<div class="entry">
 					<h2>Presentations</h2>
 					
-					<span class="pubs"><a href="research#nutrients">Drenovsky, R., Wetherill, C., & Short, T. (accepted). Multi-year patterns in nutrient resorption from a global dataset. Poster submitted for presentation at the Botanical Society of America Conference, Boise, ID.</a></span><br />
-					<span class="pubs"><a href="research#semsat">Wetherill, C., & Jones, A. (2014). Immediate and delayed satiation effects with ambiguous words. Paper submitted for presentation at the Midwestern Psychological Association Annual Meeting, Chicago, IL.</a></span><br />
-					<span class="pubs"><a href="research#semsat">Wetherill, C., & Jones, A. (2013). Semantic satiation, lexical ambiguity, and semantic distance. Poster presented at the 2013 Psychonomic Society Annual Meeting, Toronto, CA.</a></span><br />
-					<span class="pubs"><a href="research#burke">Brown, R., Short, T., & Wetherill, C. (2013). Analysis of predictions for NFL game outcomes from Burke's model. Poster presented at Cleveland chapter of American Statistical Association 2013 Conference, Akron, OH.</a></span><br />
+					<span class="pubs"><a href="research#nutrients">Drenovsky, R., Wetherill, C., & Short, T. (accepted). Multi-year patterns in nutrient resorption from a global dataset. Poster submitted for presentation at the Botanical Society of America Conference, Boise, ID.</a></span>
+					<span class="pubs"><a href="research#semsat">Wetherill, C., & Jones, A. (2014). Immediate and delayed satiation effects with ambiguous words. Paper submitted for presentation at the Midwestern Psychological Association Annual Meeting, Chicago, IL.</a></span>
+					<span class="pubs"><a href="research#semsat">Wetherill, C., & Jones, A. (2013). Semantic satiation, lexical ambiguity, and semantic distance. Poster presented at the 2013 Psychonomic Society Annual Meeting, Toronto, CA.</a></span>
+					<span class="pubs"><a href="research#burke">Brown, R., Short, T., & Wetherill, C. (2013). Analysis of predictions for NFL game outcomes from Burke's model. Poster presented at Cleveland chapter of American Statistical Association 2013 Conference, Akron, OH.</a></span>
 				</div>
 
 <?php
