@@ -44,6 +44,7 @@
                                         <li><a href="http://www.okfn.org" target="_blank">okfn.org</a> &mdash; The Open Knowledge Foundation offers some great resources if you're interested in opening up data, science, education, etc. Check out their mailing lists; I'm a big advocate of reducing or removing barriers to access experimental data and scientific publications and can't speak highly enough of this group.</li>
                                         <li><a href="http://www.data.gov" target="_blank">data.gov</a> &mdash; Bored? Check out some of the thousands of governmental data sets that are published here. Great for a side project if you find a topic that's up your alley!</li>
                                         <li><a href="https://github.com/datasets" target="_blank">GitHub Datasets</a> &mdash; Just a good resource for some generic datasets to play around with. It's a good resource if you just want more experience dealing with data 'in the wild' (although these datasets are cleaner than a lot of what you'll find elsewhere).</li>
+										<li><a href="http://driven-by-data.net/" target="_blank">Driven By Data</a> &mdash; The personal website of Gregor Aisch, a graphics editor at the New York <em>Times</em>. He writes up some great posts on visualizing data and is well worth checking out.</li>
                                     </ul>
                                 </td>
                             </tr>

@@ -21,6 +21,10 @@ body {
     background-color: #2D3235;
 }
 
+em {
+	font-style: italic;
+}
+
 h2 {
     font-weight: 400;
     font-size: 2em;
