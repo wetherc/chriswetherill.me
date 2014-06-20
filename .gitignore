@@ -1,4 +1,5 @@
 ## my secret stuffs:
+.DS_Store
 beamMeUp.php
 blog/*.*
 blog/wp-admin/*
@@ -6,6 +7,7 @@ blog/wp-assets/*
 blog/wp-includes/*
 blog/wp-content/plugins/*
 blog/wp-content/themes/*.*
+blog/wp-content/themes/twentyfourteen/*.*
 blog/wp-content/themes/twentyfourteen/css/*
 blog/wp-content/themes/twentyfourteen/genericons/*
 blog/wp-content/themes/twentyfourteen/images/*
