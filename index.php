@@ -7,7 +7,7 @@
                     <h2>Woah, where am I?</h2>
                     <p>Hi! Thanks for stopping by to find out a little bit about me. I'm not usually very interesting to creep on, but I do my best.</p>
                     <p>I'm Chris Wetherill, a Midwestern kid studying cognitive and computational neuroscience-y things (first at <a href="http://sites.jcu.edu/psychology" target="_blank">John Carroll University</a> in Cleveland and now at <a href="http://www.tbmh.vt.edu" target="_blank">Virginia Tech</a>). On occasion I'm also an amateur <a href="http://www.youtube.com/watch?v=aEjKk5Kt3rs" target="_blank">cat yodeler</a>.</p>
-                    <p>There's not much to see, but feel free to poke around. I think it goes without saying, but the random quotes in each page footer aren't serious. You won't really contract a rare disease. (Or at least not that I know of.) Some are rather morbid, though. Apologies for those.</p>
+                    <p>There's not much to see, but feel free to poke around. I think it goes without saying, but the random quotes in each page footer aren't serious. You won't really contract a rare disease. (At least not that I know of.) Some are kinda morbid, though. Whoops.</p>
     
                     <p>Peace!</p>
     
