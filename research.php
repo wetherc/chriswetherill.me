@@ -103,33 +103,13 @@
                 
                 $count++;
             ?>>
-                <div class="entry" id="ELP">
-                    <h2>English Lexicon Project / USF Free Association Norms</h2>
-                    <p>This database uses tables mirrored from the English Lexicon Project and the University of South Florida Homograph Norms. Obviously nothing big, just a handy way to construct word lists using some disparate statistics. The ELP is maintained by the lovely folks at Washington University in St. Louis and made possible by the hard work of researchers at Morehead State, SUNY Albany, University of Kansas, Univeristy of South Florida, Washington University in St. Louis, and Wayne State University. The USF Free Association Norms by Douglas L. Nelson and Cathy L. McEvoy out of the University of South Florida and by Thomas A. Schreiber at the University of Kansas. If language research is something that you're intersted in, I'd strongly recommend that you check out their sites and some of the great work they're doing.</p>
-                    <ul>
-                        <li>
-                            <a href="ELP">Combined ELP/USF databse</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="item" id=<?php
-                if($count %2 == 0) {
-                    print("\"light\"");
-                } else {
-                    print("\"dark\"");
-                }
-                
-                $count++;
-            ?>>
-                <div class="entry" id="bibtex">
-                    <h2>BibTex Database</h2>
-                    <p>A Bibtex database containing &ge; 2000 citations in cognitive science, neuroscience, social psychology, and theoretical and applied statistics. BibTex is reference management software commonly associated with <span class="math">\(\LaTeX\)</span> documents and is used for consistent citation style of sources and easily changing the style followed document-wide. Updated (semi-)regularly.</p>
-                    <ul>
-                        <li>
-                            <a href="bibtex">BibTex database</a>
-                        </li>
-                    </ul>
+                <div class="entry" id="dataDesign">
+                    <h2>Data + Design: A simple introduction to preparing and visualizing information</h2>
+					<p><em>Data + Design</em> is a free, Creative Commons-licensed e-book that explains important concepts in survey design, data collection, and data aggregation and visualization in simple language, minus all the jargon. This book, a collaboration between <a href="http://infoactive.co" target="_blank">Infoactive</a> and the Donald W. Reynolds Journalism Institute, was created by more than 50 volunteers from 14 countries around the globe.</p>
+					<ul>
+						<li><a href="https://infoactive.co/data-design" target="_blank">Data + Design ebook</a></li>
+						<li><a href="https://github.com/infoactive/data-design" target="_blank">Data + Design on GitHub</a></li>
+					</ul>
                 </div>
             </div>
 <?php

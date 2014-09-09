@@ -59,7 +59,7 @@
 					<span class="pubs">Wetherill, C., & Jones, A. (in prep). Semantic satiation and distance among lexically ambiguous words.</span>
 					<span class="pubs">Wetherill, C., & Jones, A. (in prep). A meta-analytic review of the effect of semantic satiation: 1978 to present.</span>
 					<span class="pubs"><a href="research#burke">Wetherill, C., Brown, R., & Short, T. (under revision). Analysis of predictions for NFL game outcomes from Burke's model.</a></span>
-					<span class="pubs">Wetherill, C., et al. (Eds.). (2014). <em>Data. Design. A simple introduction to preparing and visualizing information.</em> Chicago, IL: Reynolds Journalism Institute.</span>
+					<span class="pubs"><a href="research#dataDesign">Chiasson, T., & Gregory, D. (2014). <em>Data + Design. A simple introduction to preparing and visualizing information.</em> C. Wetherill (Ed.). Chicago, IL: Reynolds Journalism Institute.</a></span>
 				</div>
 			</div>
 			<div class="item" id="dark">
