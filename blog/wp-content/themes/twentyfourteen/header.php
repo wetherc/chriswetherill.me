@@ -25,7 +25,7 @@
 		<div class="navbar">
 			<ul>
 				<li>
-					<a href="http://chriswetherill.me">Home</a>                            
+					<a href="http://chriswetherill.me">Home</a>
 				</li>
 				<li>
 					<a href="http://chriswetherill.me/research">Research</a>
