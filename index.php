@@ -20,7 +20,6 @@
 						<a href="https://www.linkedin.com/profile/view?id=92647263" target="_blank"><img src="/assets/linkedin.svg" width="57px" height="57px" /></a>
 						<a href="https://facebook.com/christopher.wetherill/about" target="_blank"><img src="/assets/facebook.svg" width="57px" height"57px" /></a>
 						<a href="https://plus.google.com/+ChristopherWetherill/about" target="_blank"><img src="/assets/gplus.svg" width="57px" height="57px" /></a>
-						<a href="https://twitter.com/Faulconbridge" target="_blank"><img src="/assets/twitter.svg" width="57px" height"57px" /></a>
 					</span>
                 </div>
             </div>
