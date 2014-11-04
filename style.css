@@ -253,6 +253,22 @@ span.left {
 	padding: 0 0 0 0;
 }
 
+code {
+  font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  color: #2F353B;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  border: 1px solid #F9F9F9;
+  background-color: #FFF;
+  padding: 3px 3px 3px 3px;
+  display: inline-block;
+  margin: 0 0 0 0;
+}
+
 /*
  * Index, linkout table styling
  */
