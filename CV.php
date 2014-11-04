@@ -6,7 +6,7 @@
 				<div class="entry">
 					<h2>Christopher Wetherill</h2>
 					<h3>chris@chriswetherill.me &mdash; (415) 562-5175</h3>
-					<h2 style="font-size: 1.25em;">PGP Key Fingerprint: <code>E98F 940A 98E9 EB70 E8D6 B172 636A 2B0C 9E67 A37E</code></h2>
+					<h2 style="font-size: 1.25em;">PGP Key Fingerprint: <code><a href="http://pgp.mit.edu/pks/lookup?search=0x3108C898&op=index">2363 73D8 2F02 2EBE 7824 263B C04E 7AA6 3108 C898</a></code></h2>
 					<br />
 					<h2>Education</h2>
 					
