@@ -10,7 +10,7 @@
 					<br />
 					<h2>Education</h2>
 					
-					<span class="h4">PhD, Neuroscience</span>
+					<span class="h4">PhD, Virology</span>
 					<span class="right">2014 &mdash; 2018 (expected)</span> <br />
 					<span class="left">Virginia Polytechnic Institute and State University</span><br /><br />
 					
