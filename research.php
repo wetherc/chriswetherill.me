@@ -23,9 +23,6 @@
                         <li>
                             <a href="./assets/Psychonomic_2013.pdf" target="_blank">Poster presented at 2013 Psychonomic Scientific Conference</a>
                         </li>
-                        <li>
-                            <a href="https://github.com/faulconbridge/semsat" target="_blank">GitHub repository with data and R scripts</a>
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -65,9 +62,6 @@
                     <p>Burke provided a binary logistic model for assessing the likelihood of a given NFL team winning against any other team and has used the model to predict game results over the four-year period from 2009 to 2012. Here we demonstrate how such predictions may be evaluated using the Hosmer-Lemeshow and Pigeon-Heyse goodness-of-fit tests and assess the appropriateness of each test as a diagnostic mechanism.</p>
                     <ul>
                         <li>
-                            <a href="./assets/NFL_outcomes_2013.pdf" target="_blank">Manuscript submitted to Rose-Hulman Undergraduate Mathematics Journal</a>
-                        </li>
-                        <li>
                             <a href="./assets/Burke_2013.pdf" target="_blank">Poster presented at Cleveland chapter of American Statistical Association 2013 Conference</a>
                         </li>
                     </ul>
@@ -85,7 +79,7 @@
             ?>
             >
                 <div class="entry" id="appliedStats">
-                    <h2>Applied Statistics: An Introduction to Statistical Analysis</h2>
+                    <h2>Applied statistics: An introduction to statistical analysis</h2>
                     <p>An open-source book to teach sound and informed statistical methodologies to researchers without a strong statistical background with a particular emphasis on the social and biological sciences. Includes many commonly-used analyses, their implementation in R, and numerous examples and exercises. Currently in production.</p>
                     <ul>
                         <li>
