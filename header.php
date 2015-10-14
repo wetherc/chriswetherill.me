@@ -7,7 +7,7 @@
 		<meta name="keywords" content="Chris Wetherill, Wetherill, Christopher Wetherill">
         <meta name="author" content="Chris Wetherill" />
 		<?php require_once('beamMeUp.php'); ?>
-		<link rel='shortcut icon' href="https://chriswetherill.me/assets/favicon.ico" type="image/x-icon" />
+		<link rel='shortcut icon' href="http://chriswetherill.me/assets/favicon.ico" type="image/x-icon" />
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=latin' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="style.css">
     	<script>
