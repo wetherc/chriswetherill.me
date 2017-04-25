@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 function changePage() {
   var pathname = window.location.pathname;
-  pathname =  pathname.replace(/^\/([^\/]+)\/*.*/g, '$1');
+  pathname =  pathname.replace(/^\/([^\/]+)\/*.*(\.php)*/g, '$1');
   pathname = "./".concat(pathname);
 
   var navs = document.getElementsByClassName("navbar-nav")[0].getElementsByTagName('li');

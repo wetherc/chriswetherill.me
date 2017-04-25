@@ -2,6 +2,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
+  <title>Chris Wetherill</title>
   <meta charset="utf-8">
   <meta name="author" content="Chris Wetherill">
   <meta name="description" content="Trivia, nonsense, and other goings on by Chris Wetherill.">
@@ -41,3 +42,4 @@
       </div>
     </div>
   </nav>
+  <div class="container-fluid">
