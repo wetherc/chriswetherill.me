@@ -30,24 +30,20 @@ document.addEventListener("DOMContentLoaded", function(event) {
   changePage();
 })
 
-window.addEventListener("hashchange", function(event) {
-  changePage();
-})
-
 function changePage() {
-  var hash;
-  switch(window.location.hash) {
-    case '':
-      hash = '#';
-      break;
-    default:
-      hash = window.location.hash;
-  }
+  var pathname = window.location.pathname;
+  pathname =  pathname.replace(/^\/([^\/]+)\/.*/g, '$1');
+  pathname = "./".concat(pathname);
 
   var navs = document.getElementsByClassName("navbar-nav")[0].getElementsByTagName('li');
   for (var i = 0; i < navs.length; i++) {
     $(navs[i]).removeClass("active");
   }
 
-  document.querySelector("a[href='" + hash + "']").parentNode.className = "active";
+  try {
+    document.querySelector("a[href='" + pathname + "']").parentNode.className = "active";
+  }
+  catch(err) {
+    document.querySelector("a[href='./']").parentNode.className = "active";
+  }
 }
