@@ -17,7 +17,7 @@
   <nav class="navbar navbar-default navbar-static-top">
     <div class="container-fluid">
       <div class="navbar-header">
-        <button 
+        <button
           type="button"
           class="navbar-toggle collapsed"
           data-toggle="collapse"
@@ -41,9 +41,3 @@
       </div>
     </div>
   </nav>
-
-  <div class="container-fluid">
-    <div class="col-md-8"></div>
-  </div>
-</body>
-</html>
