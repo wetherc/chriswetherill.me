@@ -12,6 +12,18 @@
   <script src="js/alternative_facts.js" charset="utf-8"></script>
   <script src="js/jquery.min.js" charset="utf-8"></script>
   <script src="js/bootstrap.min.js" charset="utf-8"></script>
+
+  <style>
+  p, li {
+    font-size: 1.75rem;
+    line-height: 1.5;
+  }
+
+  .normal {
+    font-size: 14px;
+    line-height: 1.428;
+  }
+  </style>
 </head>
 
 <body>
