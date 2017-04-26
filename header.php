@@ -23,6 +23,12 @@
     font-size: 14px;
     line-height: 1.428;
   }
+
+  @media(max-width: 768px) {
+    .resizeable {
+      font-size: 16px;
+    }
+  }
   </style>
 </head>
 
@@ -41,13 +47,12 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="/" class="navbar-brand">Chris <span id="bespoke-fact"></span></a>
+        <a href="/" class="navbar-brand resizeable">Chris <span id="bespoke-fact"></span></a>
       </div>
 
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="./">Home</a></li>
-          <li><a href="./about">About</a></li>
           <li><a href="./posts">Posts</a></li>
           <li><a href="./cv">Resume</a></li>
         </ul>
