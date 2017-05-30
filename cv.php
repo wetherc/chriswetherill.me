@@ -4,11 +4,132 @@
 ?>
 
 <div class="col-md-6 col-md-offset-1">
-  <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut aliquam turpis et efficitur elementum. Ut dictum eu diam non elementum. Morbi laoreet libero sed pharetra luctus. Etiam ante magna, auctor nec enim nec, laoreet consequat lorem. Ut aliquam libero nec enim iaculis, eget feugiat sapien consequat. Mauris est enim, fermentum eu ornare id, porttitor faucibus augue.</p>
+  <h1>Professional Experience</h1>
+  <br />
 
-  <p>Fusce sed mattis eros. Vivamus at varius justo. Nunc fringilla ac diam congue faucibus. Proin ullamcorper imperdiet nisi, vel mollis est fringilla sit amet. Mauris tempus in quam non venenatis. Curabitur sit amet eleifend lectus. Vestibulum consectetur nec est at cursus. Fusce dignissim nibh et sapien auctor hendrerit quis at urna. Nullam nibh erat, interdum eu arcu et, placerat luctus nunc. Mauris tincidunt eu purus tempus egestas. Maecenas commodo, leo eu euismod tempus, orci risus hendrerit arcu, ut molestie sem purus a mauris. Donec luctus massa sapien, eget porta sem dignissim ac. Vestibulum nec efficitur nulla. Aenean pulvinar faucibus placerat.</p>
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">Data Scientist</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">October 2015 &ndash; Present</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>SafeAuto Insurance Company</em></p>
+    </div>
+  </div>
+  <br />
 
-  <p> Proin faucibus nisi vel nunc viverra pulvinar. Curabitur sed imperdiet ex. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ac mollis tortor. Maecenas fringilla nibh dolor. Cras placerat nisl interdum elit porta finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">Research Assistant</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">August 2014 &ndash; August 2015</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>Virginia Polytechnic Instituted State University</em></p>
+    </div>
+  </div>
+  <br />
+
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">Statistician</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">September 2013 &ndash; May 2014</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>John Carroll University Statistical Services Lab</em></p>
+    </div>
+  </div>
+  <br />
+
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">Researcher</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">May 2013 &ndash; March 2014</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>Cleveland Clinic Neurological Center for Pain</em></p>
+    </div>
+  </div>
+  <br />
+
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">Operations Intern, Contractor</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">June 2012 &ndash; November 2012</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>Luvocracy</em></p>
+    </div>
+  </div>
+  <br />
+
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">Microsoft Student Partner</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">August 2010 &ndash; June 2012</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>Microsoft Corporation</em></p>
+    </div>
+  </div>
+
+  <br />
+  <hr>
+
+  <h1>Education</h1>
+  <br />
+
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">PhD, Computational Biology (Incomplete)</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">2014 &ndash; 2015</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>Virginia Polytechnic Institute and State University</em></p>
+    </div>
+  </div>
+  <br />
+
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">BS, Neuroscience</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">2010 &ndash; 2014</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>John Carroll University</em></p>
+    </div>
+  </div>
 </div>
 
 <?php
