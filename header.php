@@ -19,9 +19,17 @@
     line-height: 1.5;
   }
 
+  .no-margin {
+    margin: 0;
+  }
+
   .normal {
     font-size: 14px;
     line-height: 1.428;
+  }
+
+  .col-md-6 > .row {
+    margin-left: 15px;
   }
 
   @media(max-width: 768px) {
