@@ -14,6 +14,10 @@
   <script src="js/bootstrap.min.js" charset="utf-8"></script>
 
   <style>
+  body {
+    overflow-y: scroll;
+  }
+
   p, li {
     font-size: 1.75rem;
     line-height: 1.5;
