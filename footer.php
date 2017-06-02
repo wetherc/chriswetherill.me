@@ -1,5 +1,5 @@
-    <div class="col-md-3 col-md-offset-1" style="border-left: solid 1px #2675D1;">
-      <h2 style="color: #2F353B;">Chris Wetherill</h2>
+    <div class="col-md-3 col-md-offset-1" id="footer">
+      <h2 id="footer-name">Chris Wetherill</h2>
       <p class="normal">Data scientist at <a href="https://www.safeauto.com" target="_blank">SafeAuto</a>. Previously at Virginia Tech and the Cleveland Clinic.</p>
       <p class="normal">You can find me on:</p>
       <span>
