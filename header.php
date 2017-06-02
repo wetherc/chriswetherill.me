@@ -9,39 +9,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="css/custom.css" type="text/css" />
   <script src="js/alternative_facts.js" charset="utf-8"></script>
   <script src="js/jquery.min.js" charset="utf-8"></script>
   <script src="js/bootstrap.min.js" charset="utf-8"></script>
-
-  <style>
-  body {
-    overflow-y: scroll;
-  }
-
-  p, li {
-    font-size: 1.75rem;
-    line-height: 1.5;
-  }
-
-  .no-margin {
-    margin: 0;
-  }
-
-  .normal {
-    font-size: 14px;
-    line-height: 1.428;
-  }
-
-  .col-md-6 > .row {
-    margin-left: 15px;
-  }
-
-  @media(max-width: 768px) {
-    .resizeable {
-      font-size: 16px;
-    }
-  }
-  </style>
 </head>
 
 <body>
