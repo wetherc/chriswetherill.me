@@ -8,27 +8,24 @@
   <meta name="description" content="Trivia, nonsense, and other goings on by Chris Wetherill.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" async />
-  <link rel="stylesheet" href="css/custom.css" type="text/css" async />
+  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="css/custom.css" type="text/css" />
   <link rel="shortcut icon" href="images/favicon.png" />
 
   <script src="js/alternative_facts.js"
     charset="utf-8"
     integrity="sha384-jRTzhx+Y9osa6nLJcZs9WSWgbFFR4UmK3GhPG/YpB5owvhPZtM1qRaSyP2Ado1RU"
-    crossorigin="anonymous"
-    async>
+    crossorigin="anonymous">
   </script>
   <script src="js/jquery.min.js"
     charset="utf-8"
     integrity="sha384-o9KO9jVK1Q4ybtHgJCCHfgQrTRNlkT6SL3j/qMuBMlDw3MmFrgrOHCOaIMJWGgK5"
-    crossorigin="anonymous"
-    defer>
+    crossorigin="anonymous">
   </script>
   <script src="js/bootstrap.min.js"
     charset="utf-8"
     integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-    crossorigin="anonymous"
-    defer>
+    crossorigin="anonymous">
   </script>
 </head>
 
