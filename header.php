@@ -17,6 +17,11 @@
     integrity="sha384-jRTzhx+Y9osa6nLJcZs9WSWgbFFR4UmK3GhPG/YpB5owvhPZtM1qRaSyP2Ado1RU"
     crossorigin="anonymous">
   </script>
+  <script src="js/piwik.js"
+    charset="utf-8"
+    integrity="sha384-jeK83r7o0KlP4e6M1AlTN+fwjG/ycRX1JTsdmqN7dEE5NOGYL54iYXNqmOzgbJhwO"
+    crossorigin="anonymous">
+  </script>
   <script src="js/jquery.min.js"
     charset="utf-8"
     integrity="sha384-o9KO9jVK1Q4ybtHgJCCHfgQrTRNlkT6SL3j/qMuBMlDw3MmFrgrOHCOaIMJWGgK5"
