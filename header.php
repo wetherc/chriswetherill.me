@@ -19,7 +19,7 @@
   </script>
   <script src="js/piwik.js"
     charset="utf-8"
-    integrity="sha384-jeK83r7o0KlP4e6M1AlTN+fwjG/ycRX1JTsdmqN7dEE5NOGYL54iYXNqmOzgbJhwO"
+    integrity="sha384-OLBgp1GsljhM2TJ+sbHjaiH9txEUvgdDTAzHv2P24donTt6/529l+9Ua0vFImLlb"
     crossorigin="anonymous">
   </script>
   <script src="js/jquery.min.js"
