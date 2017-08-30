@@ -9,10 +9,25 @@
 
   <div class="row">
     <div class="col-md-6">
+      <p class="lead no-margin">Lead R&amp;D Scientist</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin">June 2017 &ndash; Present</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>SafeAuto Insurance Company</em></p>
+    </div>
+  </div>
+  <br />
+
+  <div class="row">
+    <div class="col-md-6">
       <p class="lead no-margin">Data Scientist</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin">October 2015 &ndash; Present</p>
+      <p class="no-margin">October 2015 &ndash; June 2015</p>
     </div>
   </div>
   <div class="row">
