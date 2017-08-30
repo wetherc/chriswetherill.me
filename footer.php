@@ -12,7 +12,7 @@
   </div>
   <script src="js/alternative_facts.js"
     charset="utf-8"
-    integrity="sha384-jRTzhx+Y9osa6nLJcZs9WSWgbFFR4UmK3GhPG/YpB5owvhPZtM1qRaSyP2Ado1RU"
+    integrity="sha384-1orBlVsMKgLSoC+xdif2qZUYZiq+nxD0bZ+AD9c/lguu24pXExwrHZ9CprvGkFYy"
     crossorigin="anonymous">
   </script>
   <script src="js/jquery.min.js"

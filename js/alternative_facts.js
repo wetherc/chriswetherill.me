@@ -20,7 +20,32 @@ alternative_facts = [
   "can change after a few hours of drinks",
   "unsuccessfully tried not to disturb the bats",
   "remains crippled by indecision",
-  "is devoted to the affairs of cats"
+  "is devoted to the affairs of cats",
+  "has some hot gossip to share",
+  "could eat himself to death",
+  "doesn't want there to be awkwardness between us",
+  "really messed this one up",
+  "was not paying attention",
+  "should read the directions",
+  "is probably a Rachel, with a bit of Phoebe",
+  "imagines a distant future in which most other species of life are extinct but the ocean will consist overwhelmingly of immortal jellyfish",
+  "is communing with imaginary birds",
+  "is too afraid of daylight",
+  "just tweets about food. Food and cookies",
+  "thinks vegetables can have feelings",
+  "spends most of his days hiding",
+  "is reconnecting with his French Existentialist roots",
+  "finds new ways to enjoy grated carrot salads",
+  "barely suppressed a giggle fit",
+  "fears chickens",
+  "has moments of intense awkwardness",
+  "watches a fish play Pok&eacute;mon",
+  "is freaking me out",
+  "is adding an emoji sequence to his resume",
+  "shouldn't wear those pants",
+  "tolerated the swans",
+  "makes pretty good sandwiches",
+  "is kept alive by the coffee"
 ]
 
 fact_of_the_day = alternative_facts[Math.floor(Math.random() * alternative_facts.length)];
