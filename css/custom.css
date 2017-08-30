@@ -37,6 +37,10 @@ p, li {
 }
 
 @media(min-width: 768px) {
+  .navbar-brand {
+    box-sizing: content-box;
+  }
+
   .navbar-nav {
     margin-right: 0;
     min-height: 100%;
@@ -54,6 +58,6 @@ p, li {
 @media(max-width: 768px) {
   .resizeable {
     font-size: 16px;
-    max-width: calc(100% - 60px);
+    max-width: calc(100% - 100px);
   }
 }
