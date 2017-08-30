@@ -10,5 +10,21 @@
       </span>
     </div>
   </div>
+  <script src="js/alternative_facts.js"
+    charset="utf-8"
+    integrity="sha384-jRTzhx+Y9osa6nLJcZs9WSWgbFFR4UmK3GhPG/YpB5owvhPZtM1qRaSyP2Ado1RU"
+    crossorigin="anonymous">
+  </script>
+  <script src="js/jquery.min.js"
+    charset="utf-8"
+    integrity="sha384-o9KO9jVK1Q4ybtHgJCCHfgQrTRNlkT6SL3j/qMuBMlDw3MmFrgrOHCOaIMJWGgK5"
+    crossorigin="anonymous">
+  </script>
+  <script src="js/bootstrap.min.js"
+    charset="utf-8"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous">
+  </script>
+
 </body>
 </html>
