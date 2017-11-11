@@ -1,3 +1,11 @@
+<?php
+  session_start();
+
+  if (!isset($_COOKIE["REMOTEADDR"])) {
+    setcookie("REMOTEADDR", $_SERVER["REMOTE_ADDR"]);
+  }
+?>
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
@@ -11,7 +19,6 @@
   <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
   <link rel="stylesheet" href="css/custom.min.css" type="text/css" />
   <link rel="shortcut icon" href="images/favicon.png" />
-
 </head>
 
 <body>
