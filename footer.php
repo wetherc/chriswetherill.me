@@ -10,7 +10,10 @@
       </span>
     </div>
   </div>
-  <script src="js/alternative_facts.js"
+</body>
+
+<footer>
+<script src="js/alternative_facts.js"
     charset="utf-8"
     integrity="sha384-1orBlVsMKgLSoC+xdif2qZUYZiq+nxD0bZ+AD9c/lguu24pXExwrHZ9CprvGkFYy"
     crossorigin="anonymous">
@@ -25,6 +28,15 @@
     integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
     crossorigin="anonymous">
   </script>
-
-</body>
+  <script src="js/fingerprint2.min.js"
+    charset="utf-8"
+    integrity="sha384-5sHKtNsE3Cbe25yvEWN2HzKw5n6lq3ObNO7603A14nbLjgYQXfdu1SbM3SuXm5ME"
+    crossorigin="anonymous">
+  </script>
+  <script src="js/log_session.js"
+    charset="utf-8"
+    integrity="sha384-hSjAiER5LjXqwraf7VicKvtPSdl7PksnyMkCnP+2/OeUnjiPklDLXmRmVpQgjOWU"
+    crossorigin="anonymous">
+  </script>
+</footer>
 </html>
