@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
     $.ajax({
       type: "POST",
-      url: "https://api.chriswetherill.me/log_session",
+      url: "https://api.chriswetherill.me/log_session.php",
       async: true,
       data: JSON.stringify(session),
       dataType: "json"

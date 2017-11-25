@@ -35,7 +35,7 @@
   </script>
   <script src="js/log_session.js"
     charset="utf-8"
-    integrity="sha384-hSjAiER5LjXqwraf7VicKvtPSdl7PksnyMkCnP+2/OeUnjiPklDLXmRmVpQgjOWU"
+    integrity="sha384-n1HakA8inoyr/tz850mr/sb+j59zJp/48qUShcQj8BvRMgEWUlIoSO/58y1/N2JV"
     crossorigin="anonymous">
   </script>
 </footer>
