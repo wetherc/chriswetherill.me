@@ -28,7 +28,7 @@
     integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
     crossorigin="anonymous">
   </script>
-  <script src="js/fingerprint2.min.js"
+  <script src="js/fp.min.js"
     charset="utf-8"
     integrity="sha384-5sHKtNsE3Cbe25yvEWN2HzKw5n6lq3ObNO7603A14nbLjgYQXfdu1SbM3SuXm5ME"
     crossorigin="anonymous">
