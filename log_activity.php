@@ -16,6 +16,7 @@ $conn = new mysqli(
 
 if ($conn->connect_errno) {
     http_response_code(500);
+    $conn->close();
     exit;
 }
 
@@ -39,10 +40,10 @@ $query = sprintf(
 );
 
 if (!$result = $conn->query($query)) {
-  // Oh no! The query failed. 
+  // Oh no! The query failed.
   http_response_code(500);
+  $conn->close();
   exit;
 }
 
-$result->free();
 $conn->close();
