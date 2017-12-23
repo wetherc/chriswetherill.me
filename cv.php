@@ -9,10 +9,25 @@
 
   <div class="row">
     <div class="col-md-6">
+      <p class="lead no-margin">Lead Data Scientist</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin right">December 2017 &ndash; Present</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>State Auto Insurance Companies</em></p>
+    </div>
+  </div>
+  <br />
+
+  <div class="row">
+    <div class="col-md-6">
       <p class="lead no-margin">Lead R&amp;D Scientist</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin">June 2017 &ndash; Present</p>
+      <p class="no-margin right">June 2017 &ndash; December 2017</p>
     </div>
   </div>
   <div class="row">
@@ -27,7 +42,7 @@
       <p class="lead no-margin">Data Scientist</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin">October 2015 &ndash; June 2015</p>
+      <p class="no-margin right">October 2015 &ndash; June 2015</p>
     </div>
   </div>
   <div class="row">
@@ -42,7 +57,7 @@
       <p class="lead no-margin">Research Assistant</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin">August 2014 &ndash; August 2015</p>
+      <p class="no-margin right">August 2014 &ndash; August 2015</p>
     </div>
   </div>
   <div class="row">
@@ -57,7 +72,7 @@
       <p class="lead no-margin">Statistician</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin">September 2013 &ndash; May 2014</p>
+      <p class="no-margin right">September 2013 &ndash; May 2014</p>
     </div>
   </div>
   <div class="row">
@@ -72,7 +87,7 @@
       <p class="lead no-margin">Researcher</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin">May 2013 &ndash; March 2014</p>
+      <p class="no-margin right">May 2013 &ndash; March 2014</p>
     </div>
   </div>
   <div class="row">
@@ -80,37 +95,6 @@
       <p><em>Cleveland Clinic Neurological Center for Pain</em></p>
     </div>
   </div>
-  <br />
-
-  <div class="row">
-    <div class="col-md-6">
-      <p class="lead no-margin">Operations Intern, Contractor</p>
-    </div>
-    <div class="col-md-6">
-      <p class="no-margin">June 2012 &ndash; November 2012</p>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12">
-      <p><em>Luvocracy</em></p>
-    </div>
-  </div>
-  <br />
-
-  <div class="row">
-    <div class="col-md-6">
-      <p class="lead no-margin">Microsoft Student Partner</p>
-    </div>
-    <div class="col-md-6">
-      <p class="no-margin">August 2010 &ndash; June 2012</p>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12">
-      <p><em>Microsoft Corporation</em></p>
-    </div>
-  </div>
-
   <br />
   <hr>
 
