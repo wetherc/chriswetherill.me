@@ -11,6 +11,10 @@ p, li {
   margin: 0;
 }
 
+.right {
+  text-align: right;
+}
+
 .normal {
   font-size: 14px;
   line-height: 1.428;
