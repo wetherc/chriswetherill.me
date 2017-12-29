@@ -106,7 +106,7 @@
       <p class="lead no-margin">PhD, Computational Biology (Incomplete)</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin">2014 &ndash; 2015</p>
+      <p class="no-margin right">2014 &ndash; 2015</p>
     </div>
   </div>
   <div class="row">
@@ -121,7 +121,7 @@
       <p class="lead no-margin">BS, Neuroscience</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin">2010 &ndash; 2014</p>
+      <p class="no-margin right">2010 &ndash; 2014</p>
     </div>
   </div>
   <div class="row">
