@@ -15,7 +15,7 @@
 <footer>
 <script src="js/alternative_facts.js"
     charset="utf-8"
-    integrity="sha384-1orBlVsMKgLSoC+xdif2qZUYZiq+nxD0bZ+AD9c/lguu24pXExwrHZ9CprvGkFYy"
+    integrity="sha384-XGug6n1THYxnmYhSuU3Z2bNHD4kxrclVJprE2s9zZd5fItgF+jzRrLrtb3jhrmiB"
     crossorigin="anonymous">
   </script>
   <script src="js/jquery.min.js"
