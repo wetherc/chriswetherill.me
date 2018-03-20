@@ -42,7 +42,7 @@
       <p class="lead no-margin">Data Scientist</p>
     </div>
     <div class="col-md-6">
-      <p class="no-margin right">October 2015 &ndash; June 2015</p>
+      <p class="no-margin right">October 2015 &ndash; June 2017</p>
     </div>
   </div>
   <div class="row">
