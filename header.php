@@ -1,8 +1,10 @@
 <?php
+  ini_set('session.cookie_httponly', 1);
+  ini_set('session.cookie_secure', 1);
   session_start();
 
   if (!isset($_COOKIE["REMOTEADDR"])) {
-    setcookie("REMOTEADDR", $_SERVER["REMOTE_ADDR"]);
+    setcookie("REMOTEADDR", $_SERVER["REMOTE_ADDR"], 0, "", "", true, true);
   }
 ?>
 
