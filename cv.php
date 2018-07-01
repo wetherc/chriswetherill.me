@@ -62,7 +62,7 @@
   </div>
   <div class="row">
     <div class="col-md-12">
-      <p><em>Virginia Polytechnic Instituted State University</em></p>
+      <p><em>Virginia Polytechnic Institute &amp; State University</em></p>
     </div>
   </div>
   <br />
