@@ -44,7 +44,7 @@
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="./">Home</a></li>
-          <li><a href="./posts">Posts</a></li>
+          <li><a href="https://blog.chriswetherill.me">Posts</a></li>
           <li><a href="./cv">Resume</a></li>
         </ul>
       </div>
