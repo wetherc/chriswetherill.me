@@ -13,7 +13,7 @@
     
   <p>Prior to this, I was working my way through a PhD program in computational biology at Virginia Tech. We did some work at the intersection of genomics and epidemiolgy, trying to better predict how diseases move through populations.</p>
 
-  <p>Every now and then, I&rsquo;ll even feel super motivated and make some contributions on <a href="https://github.com/faulconbridge">GitHub</a>. Right now I&rsquo;m working on Cast, a cluster management utility that&rsquo;s arguably slightly better than running SSH in a <code>for</code> loop.</p>
+  <p>Every now and then, I&rsquo;ll even feel super motivated and make some contributions on <a href="https://phabricator.tbmh.org">Phabricator</a>. Right now I&rsquo;m working on Cast, a cluster management utility that&rsquo;s arguably slightly better than running SSH in a <code>for</code> loop.</p>
 
   <p>Want to chat about data? Feel free to <a href="mailto:hello@c18l.org">get in touch!</a></p>
 
@@ -22,7 +22,7 @@
 
   <p>Some of the stuff I&rsquo;ve worked on:</p>
   <ul>
-    <li><a href="https://github.com/faulconbridge/cast">Cast</a>: A cluster management utility for wrecking more servers even faster.</li>
+    <li><a href="https://phabricator.tbmh.org/diffusion/CAST/">Cast</a>: A cluster management utility for wrecking more servers even faster.</li>
     <li><a href="https://github.com/faulconbridge/invino">Invino</a>: A wine recommendation engine based on science, not sommeliers.</li>
     <li><a href="https://github.com/infoactive/data-design">Data + Design</a>: A book aimed at journalists on how to responsibly present and visualize data. I edited this before alternative facts really came into their own.</li>
   </ul>
