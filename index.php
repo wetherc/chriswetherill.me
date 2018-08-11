@@ -7,7 +7,7 @@
   <h1>Hey! You found me.</h2>
   <br />
 
-  <p>I&rsquo;m Chris Wetherill, a Midwestern kid working on fun data-related things at State Auto Insurance Companies. Here, I lead data science and am responsible for developing partnerships and strategic collaborations with other analytic groups across the company.</p>
+  <p>I&rsquo;m Chris Wetherill, a Midwestern kid working on fun data-related things at State Auto Insurance Companies. Here, I lead our data science team and am responsible for developing partnerships and strategic collaborations with other analytic groups across the company.</p>
   
   <p>Previously, I was at SafeAuto Insurance where I was the founding and lead member of their Data &amp; Decision Science team. There, I led pilot programs to evaluate new and emerging technologies and partnered with business stakeholders to develop and implement new predictive models. Following this, I transitioned to a technical lead role on our Product R&amp;D team where I investigated ways to improve customer segmentation in our rating algorithm and led the development of new underwriting models.</p>
     
