@@ -4,7 +4,7 @@
       <p class="normal">You can find me on:</p>
       <span>
         <a href="https://phabricator.tbmh.org" target="_blank"><img src="./images/phabricator.png" width="57px" height="57px" /></a>
-        <a href="https://github.com/faulconbridge" target="_blank"><img src="./images/github.svg" width="57px" height="57px" /></a>
+        <a href="https://github.com/wetherc" target="_blank"><img src="./images/github.svg" width="57px" height="57px" /></a>
         <a href="https://www.linkedin.com/in/christopherwetherill" target="_blank"><img src="./images/linkedin.svg" width="57px" height="57px" /></a>
         <a href="https://facebook.com/christopher.wetherill/about" target="_blank"><img src="./images/facebook.svg" width="57px" height"57px" /></a>
         <a href="https://plus.google.com/+ChristopherWetherill/about" target="_blank"><img src="./images/gplus.svg" width="57px" height="57px" /></a>
