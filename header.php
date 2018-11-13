@@ -1,13 +1,3 @@
-<?php
-  ini_set('session.cookie_httponly', 1);
-  ini_set('session.cookie_secure', 1);
-  session_start();
-
-  if (!isset($_COOKIE["REMOTEADDR"])) {
-    setcookie("REMOTEADDR", $_SERVER["REMOTE_ADDR"], 0, "", "", true, true);
-  }
-?>
-
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
@@ -18,6 +8,7 @@
   <meta name="description" content="Trivia, nonsense, and other goings on by Chris Wetherill.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <link rel="canonical" href="https://chriswetherill.me/" />
   <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
   <link rel="stylesheet" href="css/custom.min.css" type="text/css" />
   <link rel="shortcut icon" href="images/favicon.png" />
