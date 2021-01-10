@@ -73,18 +73,12 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 function changePage() {
   var pathname = window.location.pathname;
-  pathname =  pathname.replace(/^\/([^\/]+)\/*.*(\.php)*/g, '$1');
-  pathname = "./".concat(pathname);
+  console.log(pathname);
 
   var navs = document.getElementsByClassName("navbar-nav")[0].getElementsByTagName('li');
   for (var i = 0; i < navs.length; i++) {
     $(navs[i]).removeClass("active");
   }
 
-  try {
-    document.querySelector("a[href='" + pathname + "']").parentNode.className = "active";
-  }
-  catch(err) {
-    document.querySelector("a[href='./']").parentNode.className = "active";
-  }
+  document.querySelector("a[href='" + pathname + "'].nav-link").parentNode.className = "active";
 }
