@@ -1,3 +1,4 @@
+import yaml
 import os
 from pathlib import Path
 from flask import Flask, request, render_template
@@ -14,8 +15,9 @@ def index():
 
 @app.route('/resume', methods=['GET'])
 def resume():
-    # TODO: Resume from YAML or some jazz
-    return render_template('index.html')
+    with open(APP_ROOT / 'cv.yml', 'r') as data:
+        parsed_cv = yaml.safe_load(data)
+    return render_template('resume.html', data=parsed_cv)
 
 
 if __name__ == '__main__':

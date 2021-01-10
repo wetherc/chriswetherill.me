@@ -1,0 +1,27 @@
+{% include 'header.html' %}
+
+<div class="col-md-6 col-md-offset-1">
+  {% for section in data %}
+  <h1>{{ section['title'] }}</h1>
+  <br />
+
+  {% for entry in section['content'] %}
+  <div class="row">
+    <div class="col-md-6">
+      <p class="lead no-margin">{{ entry['role'] }}</p>
+    </div>
+    <div class="col-md-6">
+      <p class="no-margin right">{{ entry['start'] }} &ndash; {{ entry['end'] }}</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <p><em>{{ entry['company'] }}</em></p>
+    </div>
+  </div>
+  {% endfor %}
+  <br />
+  {% endfor %}
+</div>
+
+{% include 'footer.html' %}

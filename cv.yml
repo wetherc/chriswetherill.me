@@ -1,0 +1,36 @@
+- title: Professional Experience
+  content:
+  - role: Lead Machine Learning Engineer
+    company: Progressive Insurance
+    start: December 2020
+    end: Present
+  - role: Lead Data Scientist
+    company: State Auto Insurance Companies
+    start: December 2017
+    end: December 2020
+  - role: Lead R&D Scientist
+    company: SafeAuto Insurance Company
+    start: June 2017
+    end: December 2017
+  - role: Data & Decision Scientist
+    company: SafeAuto Insurance Company
+    start: October 2015
+    end: June 2017
+  - role: Research Assistant
+    company: Virginia Polytechnic Institute & State University
+    start: August 2014
+    end: August 2015
+  - role: Researcher
+    company: Cleveland Clinic Foundation
+    start: May 2013
+    end: March 2014
+- title: Education
+  content:
+  - role: PhD, Computational Biology (Incomplete)
+    company: Virginia Polytechnic Institute & State University
+    start: 2014
+    end: 2015
+  - role: BS, Neuroscience
+    company: John Carroll University
+    start: 2010
+    end: 2014
