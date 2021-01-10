@@ -1,0 +1,13 @@
+[Unit]
+Description=Cow says moo
+After=network.target
+
+[Service]
+User=nginx
+WorkingDirectory=/var/www/chriswetherill.me
+ExecStart=/usr/local/bin/gunicorn -b localhost:8001 -w 4 app
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
