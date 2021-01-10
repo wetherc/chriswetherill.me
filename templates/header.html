@@ -29,14 +29,24 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a href="/" class="navbar-brand resizeable" id="bespoke-fact">Chris thinks you should enable JavaScript</a>
+        <a href="/" class="navbar-brand resizeable" id="bespoke-fact">{{ fact }}</a>
       </div>
 
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a class="nav-link" href="{{ url_for('index') }}">Home</a></li>
-          <li><a class="nav-link" href="https://blog.chriswetherill.me">Posts</a></li>
-          <li><a class="nav-link" href="{{ url_for('resume') }}">Resume</a></li>
+          <li
+            {% if request.path == url_for('index') %}class="active"{% endif %}
+          >
+            <a href="{{ url_for('index') }}">Home</a>
+          </li>
+          <li>
+            <a href="https://blog.chriswetherill.me">Posts</a>
+          </li>
+          <li
+            {% if request.path == url_for('resume') %}class="active"{% endif %}
+          >
+            <a href="{{ url_for('resume') }}">Resume</a>
+          </li>
         </ul>
       </div>
     </div>
