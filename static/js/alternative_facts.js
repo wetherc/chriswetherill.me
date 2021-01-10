@@ -67,7 +67,7 @@ alternative_facts = [
 fact_of_the_day = alternative_facts[Math.floor(Math.random() * alternative_facts.length)];
 
 document.addEventListener("DOMContentLoaded", function(event) {
-  document.getElementById("bespoke-fact").innerHTML = fact_of_the_day;
+  document.getElementById("bespoke-fact").innerHTML = 'Chris ' + fact_of_the_day;
   changePage();
 })
 
