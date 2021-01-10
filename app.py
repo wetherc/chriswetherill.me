@@ -15,7 +15,7 @@ def index():
 
 @app.route('/resume', methods=['GET'])
 def resume():
-    with open(APP_ROOT / 'cv.yml', 'r') as data:
+    with open(APP_ROOT / 'content/cv.yml', 'r') as data:
         parsed_cv = yaml.safe_load(data)
     return render_template('resume.html', data=parsed_cv)
 
