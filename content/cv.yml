@@ -1,9 +1,17 @@
 - title: Professional Experience
   content:
+  - role: Manager, Data Science
+    company: Medical Mutual of Ohio
+    start: May 2022
+    end: Present
+  - role: Staff Software Engineer
+    company: Paperspace
+    start: August 2021
+    end: May 2022
   - role: Lead Machine Learning Engineer
     company: Progressive Insurance
     start: December 2020
-    end: Present
+    end: August 2021
   - role: Lead Data Scientist
     company: State Auto Insurance Companies
     start: December 2017
@@ -16,14 +24,6 @@
     company: SafeAuto Insurance Company
     start: October 2015
     end: June 2017
-  - role: Research Assistant
-    company: Virginia Polytechnic Institute & State University
-    start: August 2014
-    end: August 2015
-  - role: Researcher
-    company: Cleveland Clinic Foundation
-    start: May 2013
-    end: March 2014
 - title: Education
   content:
   - role: PhD, Computational Biology (Incomplete)
