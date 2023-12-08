@@ -39,9 +39,6 @@
           >
             <a href="{{ url_for('index') }}">Home</a>
           </li>
-          <li>
-            <a href="https://blog.chriswetherill.me">Posts</a>
-          </li>
           <li
             {% if request.path == url_for('resume') %}class="active"{% endif %}
           >
